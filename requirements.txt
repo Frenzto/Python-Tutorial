@@ -1,0 +1,7 @@
+pendulum
+beautifulsoup4
+pandas
+selenium
+webdriver-manager
+thefuzz
+python-Levenshtein
